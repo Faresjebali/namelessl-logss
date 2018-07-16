@@ -120,4 +120,4 @@ client.on('messageDelete', message => {
 
 
 
-client.login(Process.env.BOT_TOKEN)
+client.login(process.env.BOT_TOKEN)
